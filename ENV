@@ -8,7 +8,7 @@
 #
 # This value appears in the header of your site.
 #
-SITE_NAME="Drupal Devcontainer"
+SITE_NAME="Test Drupal Devcontainer"
 
 #
 # Credentials for the development site username and password.
